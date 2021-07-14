@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Lab-Sessional-2-DSA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab_Sessional_2_DSA_jar</output-path>
+    <root id="archive" name="Lab-Sessional-2-DSA.jar">
+      <element id="module-output" name="ProductsAddition-BST" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/AbsoluteLayout.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
